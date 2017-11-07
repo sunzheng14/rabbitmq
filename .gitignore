@@ -1,0 +1,16 @@
+.settings
+.project
+/bin
+.settings
+.classpath
+target
+build
+
+*.idea
+*.iml
+*.class
+
+log
+cat
+logs
+
